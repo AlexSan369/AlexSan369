@@ -1,4 +1,5 @@
-### Yo ✌
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff00&size=35&center=true&vCenter=true&width=1000&lines=Yooo!,+My+name+is+Alex+Sander;I'm+30+years+old;I'm+from+São+Paulo,Brazil;But+I+live+in+Recife;I'm+a+computer+scientist+;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
