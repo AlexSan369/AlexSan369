@@ -1,26 +1,32 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff00&size=35&center=true&vCenter=true&width=1000&lines=Yooo!,+My+name+is+Alex+Sander;I'm+30+years+old;I'm+from+São+Paulo,Brazil;But+I+live+in+Recife;I'm+a+computer+scientist+;Be+Welcome!+:%29)](https://git.io/typing-svg)
+# 👋 Olá, eu sou Alex Sander!
 
+💻 Desenvolvedor web em transição de carreira, com base sólida em **HTML, CSS, JavaScript** e iniciando especialização em **PHP e desenvolvimento back-end**. Possuo formação em Ciência da Computação e MBA em Cibersegurança.
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+📚 Lecionei programação web para jovens em formação técnica, ensinando lógica de programação, criação de sites e boas práticas de desenvolvimento.
 
-<em><strong>A</strong>lex <strong>S</strong>ander</em> é ou está:
+🌍 Cresci no Japão e atualmente moro em Pernambuco, Brasil. Trago comigo uma bagagem multicultural, resiliência e o compromisso de crescer sempre.
 
-- 🔭 Atualmente formando novos programadores
-- 🌱 Aprendendo sobre mais React
-- 💬 Me pergunte sobre ciência
-- 📫 Minhas próximas metas é aprender Deep Learning
-- ⚡ Sou pai de Coelho, Gato e Jabuti
-<hr>
-<h4 align='center'>For Us ! <<3</h4>
-<h5  align='center'>01000001 00100000 01110110 01101001 01100100 01100001 00100000 11101001 00100000 01110101 01101101 01100001 00100000 01110000 01110010 01101111 01100111 01110010 01100001 01101101 01100001 11100111 11100011 01101111 00100000 01100100 01101001 01110110 01101001 01101110 01100001 00100000 00110011 00110110 00111001 </h5>
-<hr>
-<h4 align="center">
-<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center"> Meu Github Status <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
-</h4>
+## 🚀 Tecnologias que uso e estudo
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlexSan369&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Alex Sander github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSan369&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-<br>
-<br>
+![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+## 📂 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| **Portfólio Pessoal** | Página de apresentação com currículo e links | HTML, CSS |
+| **To-do List** | Aplicação com armazenamento local | JS, HTML, CSS |
+| **[Novo projeto PHP - em construção]** | Sistema com cadastro e login | PHP, MySQL |
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-sander-neves)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:sanderalex0333@gmail.com)
+
+---
+💬 “Crescer é aceitar que às vezes será preciso recomeçar — e isso é força, não fraqueza.”  
